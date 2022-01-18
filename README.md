@@ -1,1 +1,1 @@
-# mob-programming algorithm exercises
+https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
