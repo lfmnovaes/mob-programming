@@ -1,1 +1,1 @@
-# mob-programming algorithm exercises
+https://www.hackerrank.com/challenges/two-strings/problem
