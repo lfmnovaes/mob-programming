@@ -1,1 +1,3 @@
-# mob-programming algorithm exercises
+# Alternating Characters
+
+https://www.hackerrank.com/challenges/alternating-characters/problem
