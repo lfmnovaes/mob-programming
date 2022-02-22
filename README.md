@@ -1,1 +1,3 @@
-# mob-programming algorithm exercises
+# Number Line Jumps
+
+https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
